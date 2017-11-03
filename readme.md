@@ -15,6 +15,7 @@ Projects
 | MOSPMemes | gareth | Meme pic generator microsite related to MOSP | Python, Flask, Web | https://github.com/AbstractBeliefs/mosp-memes |
 | Bavrf | gareth | Brainfuck interpreter/compiler for AVR microcontrollers (Arduino!) | Compilers, C, Python, AVR, Arduino, brainfuck | https://github.com/AbstractBeliefs/mosp-memes |
 | rsstool | gareth | Scrape sites without RSS and produce feeds for them | Python, Rust, RSS, Web | https://github.com/AbstractBeliefs/rsstool |
+| charcreator | marek | A small website to create roleplaying characters | React, Web | https://github.com/MrStobbart/char-creator |
 
 
 Project Ideas
