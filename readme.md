@@ -25,3 +25,4 @@ Project Ideas
 | Project | Description | Topics |
 |---------|-------------|--------|
 | iCal Timetable tool | Scrape the Napier timetable web application and produce and iCal file for a given set of classes | iCal, Web |
+| ENUCS Project Manager | Scrape ENUCS Projects readme and determine activity of linked repositories | Python, Web |
